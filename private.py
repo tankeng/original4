@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import time, random, sys, re, os, json, subprocess, threading, string, codecs, requests, ctypes, urllib, urllib2, urllib3, tempfile, glob, shutil, unicodedata, goslate
 
 cl = LINETCR.LINE()
-cl.login(token="EpevOOSsOaPR3h6XioKa.ScFjCUWZY2oU7YzWFlMgcG.otkgJp0JKaV0/swv2CdvjaR41bq+ZIbW1bdMn8amqU0=")
+cl.login(token="EpoYFqkFWIwxrNjj20B5.7xCRRg3YdpRmzn8omFJ9rq.+cPWolzN/VoDH5Ofi1IGzMN3ts1euifWqTcckBPbBqY=")
 cl.loginResult()
 
 
